@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LinearSearch
+comment0.text=\r\n\ Linear\ search\ practice\ problems.\r\n\r\n\ @author\ (Yousuf\ Borno)\r\n\ @version\ (8/26/2024)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=name\ target
+comment2.target=boolean\ SearchChar(java.lang.String,\ char)
+comment3.params=arr
+comment3.target=int\ min(int[])
+comment4.params=arr
+comment4.target=int\ twoDarray(int[][])
+numComments=5

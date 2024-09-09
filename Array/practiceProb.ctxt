@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=practiceProb
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ practiceProb\ here.\r\n\r\n\ @author\ (Yousuf\ Borno)\r\n\ @version\ (9/4/2024)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr\ n
+comment2.target=int\ lowerbound(int[],\ int)
+comment3.params=arr\ n
+comment3.target=int\ upperbound(int[],\ int)
+comment4.params=arr\ n
+comment4.target=int\ searchInPosition(int[],\ int)
+numComments=5
